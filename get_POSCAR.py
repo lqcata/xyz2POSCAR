@@ -2,16 +2,6 @@
 
 import sys
 
-#This script is released under the GNU Lesser General Public License version 2.1 or any later version. 
-#See the files COPYING and COPYING.LESSER which accompany the downloaded files, 
-#or see the license at GNU’s web server at http://www.gnu.org/licenses/. 
-#Everybody is invited to participate in using and developing the code.
-
-# Written by Qiang, if you have questions, Please Contact me 
-# Email: qli@bigbrosci.com 
-# QQ: 122103465 
-# QQ Group: 217821116 
-
 script, xyz_file, out_file = sys.argv 
 
 def get_box(xyz_file):
